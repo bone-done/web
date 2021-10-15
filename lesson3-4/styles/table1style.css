@@ -1,0 +1,14 @@
+table {
+    width: 30%;
+    height: 200px;
+    border-collapse:collapse;
+	border-spacing:0;
+}
+td {
+    text-align: center;
+    vertical-align: middle; 
+    border: 1px solid #595959;
+}
+.large {
+    padding: 20px 1px;
+}
