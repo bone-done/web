@@ -1,0 +1,19 @@
+caption {
+    font-size: 20px;
+    font-style: italic;
+}
+table {
+    width: 40%;
+    height: 150px;
+    border-collapse:collapse;
+	border-spacing: 0; 
+}
+th {
+    background-color: yellow;
+    border: 1px solid black;
+}
+td {
+    text-align: center;
+    vertical-align: middle; 
+    border: 1px solid black;
+}

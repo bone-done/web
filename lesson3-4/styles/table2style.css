@@ -1,0 +1,15 @@
+table {
+    width: 70%;
+    height: 110px;
+    border-collapse:collapse;
+	border-spacing: 0; 
+    background-color: yellow;
+}
+td {
+    text-align: left;
+    vertical-align: middle; 
+    border: 1px solid black;
+}
+.non-color {
+    background-color: white;
+}
