@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body {
+      background-color: cornflowerblue;
+}
+
+.head-menu {
+    
+    background-color: yellow;
+    overflow: hidden;
+    border: 1px solid black;
+    
+}
+
+.head-menu li {
+    display: inline;
+    border: 1px solid black;
+    padding: 8%;
+      
+   
+}
+
+.head-menu a {
+    display: inline-block;
+    text-align: center;
+}
+
+img {
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: blue;
+}
+
+h3, div {
+    clear: left;
+}
+
+main ul {
+    font-style: italic;
+}
