@@ -1,0 +1,74 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+article {
+    height: 400px;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 5px solid black;
+    border-style: double;
+    background-color:rgb(233, 233, 233);
+    
+    
+}
+
+section {
+    display: flex;
+    justify-content:space-evenly;
+    text-transform: uppercase;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section.second div div.caret {
+    display: flex;
+    flex-direction: row;
+}
+
+i {
+    font-family: fontawesome !important;
+    font-style: normal;
+    font-size:20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+section.first div i {
+    color:green;
+}
+
+section.first div:hover i {
+    color:red;
+}
+
+section.second div div i {
+    color:black;
+}
+
+section.second div:hover div i {
+    color:coral;
+}
+
+section.third div i {
+    color:blue;
+}
+
+section.third div:hover i {
+    color:black;
+}
+
+
+
+
